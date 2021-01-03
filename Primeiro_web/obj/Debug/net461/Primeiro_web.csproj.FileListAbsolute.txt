@@ -353,7 +353,6 @@ C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Sys
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\System.Composition.Hosting.dll
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\System.Composition.Runtime.dll
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\System.Composition.TypedParts.dll
-C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\obj\Debug\net461\Primeiro_web.csproj.CoreCompileInputs.cache
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
@@ -363,3 +362,14 @@ C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Mic
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Remotion.Linq.dll
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\System.Data.SqlClient.dll
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\System.Interactive.Async.dll
+C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Properties\serviceDependencies.json
+C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Properties\serviceDependencies.local.json
+C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\obj\Debug\net461\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\obj\Debug\net461\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\obj\Debug\net461\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\obj\Debug\net461\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\obj\Debug\net461\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\obj\Debug\net461\Primeiro_web.csproj.CoreCompileInputs.cache
+C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\MySqlConnector.dll
+C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Pomelo.JsonObject.dll

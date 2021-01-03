@@ -37,7 +37,7 @@ namespace Primeiro_web
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<Primeiro_webContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("Primeiro_webContext")));
+                    options.UseMySql(Configuration.GetConnectionString("Primeiro_webContext"), builder => builder.MigrationsAssembly("Primeiro_web")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -13,14 +13,13 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
-    using Primeiro_web.Models.ViewModels;
 #line 1 "C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\Views\_ViewImports.cshtml"
-    using Primeiro_web;
+using Primeiro_web;
 
 #line default
 #line hidden
 #line 2 "C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\Views\_ViewImports.cshtml"
-using Primeiro_web.Models;
+using Primeiro_web.Models.ViewModels;
 
 #line default
 #line hidden
