@@ -363,4 +363,3 @@ C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Mic
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\Remotion.Linq.dll
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\System.Data.SqlClient.dll
 C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\bin\Debug\net461\System.Interactive.Async.dll
-C:\Users\Colaborador\source\repos\Primeiro_web\Primeiro_web\obj\Debug\net461\Razor\Views\Departments\Index.cshtml.g.cs
